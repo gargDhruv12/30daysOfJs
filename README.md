@@ -4,3 +4,5 @@
 3.  Control statements
 4.  Loops
 5.  Functions
+6.  Arrays
+7.  Objects
