@@ -7,3 +7,5 @@
 6.  Arrays
 7.  Objects
 8.  ES6+ features
+9.  DOM Manipulation
+10.  Event handling
