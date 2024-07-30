@@ -6,3 +6,4 @@
 5.  Functions
 6.  Arrays
 7.  Objects
+8.  ES6+ features
